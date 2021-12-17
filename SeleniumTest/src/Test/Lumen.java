@@ -18,11 +18,13 @@ public class Lumen {
 		a.moveToElement(driver.findElement(By.xpath("//span[@class='tier-link'][contains(.,'SOLUTIONS')]")))
 		.moveToElement(driver.findElement(By.xpath("//span[@class='tier-link'][contains(.,'By Industry')]")))
 		.click(driver.findElement(By.xpath("(//a[@class='tier-link '][contains(.,'Retail')])[2]"))).build().perform();
+		Thread.sleep(10000);
+		driver.quit();
 		
 		//driver.findElement(By.xpath("//span[@class='tier-link'][contains(.,'SOLUTIONS')]")).
 		//driver.findElement(By.xpath("//span[@class='tier-link'][contains(.,'By Industry')]")).click();
 		//driver.findElement(By.xpath("(//a[@class='tier-link '][contains(.,'Retail')])[2]")).click();
-		//driver.quit();
+		
 		
 	}
 
