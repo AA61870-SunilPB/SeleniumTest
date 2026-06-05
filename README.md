@@ -13,8 +13,6 @@ Use these steps to add a team member to the GitHub organization:
 7. Ask the user to check email and GitHub notifications, then accept the invitation.
 8. (If your company uses SSO) Ask the user to authorize SSO for the organization after accepting.
 
-For the current request, use: `Saiteja-7710`.
-
 ### If the invite does not work
 
 - Confirm the username is correct and active.
