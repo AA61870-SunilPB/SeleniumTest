@@ -2,12 +2,12 @@
 
 ## Linking a GitHub account to the CenturyLink (Lumen) organization
 
-Use these steps to add a team member (for example: `Saiteja-7710`) to the GitHub organization:
+Use these steps to add a team member to the GitHub organization:
 
 1. Ask a GitHub organization owner for CenturyLink/Lumen to sign in to GitHub.
 2. Open the organization page and go to **People**.
 3. Select **Invite member**.
-4. Enter the GitHub username: `Saiteja-7710`.
+4. Enter the GitHub username (for this request: `Saiteja-7710`).
 5. Choose the correct team(s) and repository access permissions.
 6. Send the invite.
 7. Ask the user to check email and GitHub notifications, then accept the invitation.
